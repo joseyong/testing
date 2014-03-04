@@ -1,0 +1,4 @@
+application/logs/*
+*.passwords.php
+ayah_config/ENVIRONMENT
+application/libraries/ayah_versions/*
